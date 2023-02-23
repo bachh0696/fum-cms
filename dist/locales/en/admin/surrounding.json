@@ -1,0 +1,66 @@
+{
+	"label": {
+		"no": "NO",
+		"name": "周辺情報名称",
+		"area": "エリア",
+		"type": "周辺情報種別",
+		"lat_long": "緯度・経度",
+		"point": "設定ポイント",
+		"action": "スペシャルアクション"
+	},
+	"title": {
+		"surrounding": "周辺情報一覧",
+		"edit_surrounding": "周辺情報詳細",
+		"filter": "検索条件",
+		"name": "周辺情報名称",
+		"type": "周辺情報種別",
+		"action": "スペシャルアクション",
+		"area": "エリア",
+		"situation": "状態"
+	},
+	"value": {
+		"express": "表示",
+		"non_representation": "非表示"
+	},
+	"btn": {
+		"search": "検索",
+		"upload": "アップロード"
+	},
+	"edit": {
+		"form": {
+			"label": {
+				"id": "周辺情報ID",
+				"name": "周辺情報名称",
+				"type": "周辺情報種別",
+				"description": "周辺情報説明",
+				"address": "周辺情報エリア",
+				"location_info_latitude": "緯度",
+				"location_info_longitude": "経度",
+				"url": "周辺情報URL",
+				"tel": "周辺情報TEL",
+				"image": "周辺情報IMAGE",
+				"csv": "CSVファイル"
+			},
+			"check_box": {
+				"label": {
+					"display": "表示",
+					"hidden": "非表示",
+					"toilet": "トイレ",
+					"restaurant": "レストラン",
+					"spa": "スパ",
+					"kitchen": "キッチン",
+					"living_room": "リビングルーム",
+					"hotel": "ホテル",
+					"dining_room": "ダイニングルーム",
+					"bed_room": "ベッドルーム",
+					"bath_room": "シャワールーム"
+				}
+			},
+			"btn": {
+				"selection": "選択",
+				"delete": "削除",
+				"register": "登録"
+			}
+		}
+	}
+}

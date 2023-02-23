@@ -1,0 +1,32 @@
+{
+	"label": {
+		"no": "NO",
+		"name": "施設名",
+		"address": "住所",
+		"company": "運営会社",
+		"id": "契約ID",
+		"status": "ステータス",
+		"action": "鍵開閉"
+	},
+	"title": {
+		"facility": "施設一覧",
+		"filter": "検索条件",
+		"name": "コースタイトル",
+		"tag": "タグ",
+		"area": "エリア",
+		"state": "状態"
+	},
+	"filter": {
+		"space_name":"スペース名",
+		"address":"住所",
+		"operating_company":"運営会社",
+		"customer_id":"顧客ID"
+	},
+	"value": {
+		"express": "表示",
+		"non_representation": "非表示"
+	},
+	"btn": {
+		"search": "検索"
+	}
+}

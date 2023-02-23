@@ -1,0 +1,54 @@
+{
+	"action": "Hành động",
+	"dialog": {
+		"title": {
+			"new": "Thêm mới",
+			"edit": "Chỉnh sửa"
+		}
+	},
+	"table": {
+		"customize_column": "Tùy biến cột",
+		"search_column": "Tìm kiếm cột",
+		"column_selected": "Cột được chọn ({{count}})",
+		"no_data": "取り込み中",
+		"hide_column": "Ẩn cột",
+		"move_column": "Di chuyển cột",
+		"save_column": "Lưu thay đổi",
+		"delete_confirm": "このデータを削除しますか?",
+		"row_per_page": "Số hàng hiển thị trên trang"
+	},
+	"btn": {
+		"new": "登錄",
+		"add": "新規作成",
+		"save": "Save",
+		"save_change": "Save Change",
+		"edit": "編集",
+		"delete": "削除",
+		"submit": "参加する",
+		"cancel": "キャンセル",
+		"view": "見る",
+		"update": "Update",
+		"unSubscribe": "Bỏ đăng ký",
+		"subscribed": "Đăng ký",
+		"back": "戻る",
+		"review": "レビュー",
+		"addition": "追加"
+	},
+	"message": {
+		"fetch_list_failed": "データの取得に失敗",
+		"delete_success": "削除成功",
+		"delete_failed": "削除失敗",
+		"edit_success": "成功編集",
+		"create_success": "成功作成"
+	},
+	"form": {
+		"input_file_empty": "Chưa chọn file nào",
+		"autocomplete": {
+			"no_options": "No options"
+		}
+	},
+	"validation": {
+		"password": "Minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character.",
+		"password_v2": "最小 8 文字、少なくとも 1 つの大文字、1 つの小文字、および 1 つの数字"
+	}
+}

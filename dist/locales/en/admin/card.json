@@ -1,0 +1,23 @@
+{
+	"title": {
+		"card": "タグ管理一覧",
+		"detail_card":"タグ詳細"
+	},
+	"label": {
+		"no": "NO",
+		"name": "カード名前",
+		"app_currency": "アプリ通貨",
+		"image": "カード画像",
+		"action": "スペシャルアクション"
+	},
+	"edit": {
+		"form": {
+			"label": {
+				"id": "カードID",
+				"name": "カード名前",
+				"app_currency": "アプリ通貨",
+				"image": "カード画像"
+			}
+		}
+	}
+}

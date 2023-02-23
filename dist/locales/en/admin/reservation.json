@@ -1,0 +1,99 @@
+{
+	"label": {
+		"id": "予約ID",
+		"name": "スペース名",
+		"reservation_name": "予約者名",
+		"reservation_date": "予約日",
+		"utilization_time": "利用時間",
+		"usage_fee": "利用料金",
+		"action": "スペシャルアクション"
+	},
+	"title": {
+		"reservation": "施設予約一覧",
+		"filter": "検索条件",
+		"name": "スポット名",
+		"tag": "タグ情報",
+		"area": "エリア",
+		"state": "状態",
+		"detail": "詳細",
+		"facility": "施設",
+		"type": "タイプ",
+		"id": "予約ID",
+		"reservation_name": "予約者名",
+		"reservation_date": "予約日",
+		"utilization_time": "利用時間",
+		"space_name": "スペース名"
+	},
+	"value": {
+		"express": "表示",
+		"non_representation": "非表示"
+	},
+	"btn": {
+		"search": "検索",
+		"upload": "アップロード"
+	},
+	"edit": {
+		"tabs": {
+			"label": {
+				"information": "スポット概要"
+			}
+		},
+		"form": {
+			"label": {
+				"id": "スポットID",
+				"name": "スポット名",
+				"description": "スポット説明",
+				"catchphrase": "キャッチフレーズ",
+				"post_code": "郵便番号",
+				"address": "住所",
+				"phone_number": "電話番号",
+				"web_url": "WEBサイトURL",
+				"google_map_url": "Google Map URL",
+				"location_info_latitude": "緯度",
+				"location_info_longitude": "経度",
+				"special_action": "スペシャルアクション",
+				"situation": "状態",
+				"category": "スポットカテゴリ",
+				"venue": "スポット開催場所",
+				"type": "スポットタイプ",
+				"period": "スポット開催期間",
+				"to": "～",
+				"entry_period": "スポットエントリ期間",
+				"entry_fee": "エントリー料金",
+				"payment": "支払方法",
+				"entry_option": "エントリーオプション",
+				"circle": "円",
+				"mission": "スポットミッション",
+				"reward": "スポット報酬",
+				"tag": "スポットタグ",
+				"precautions": "エントリー時の注意事項",
+				"contact_name": "トラブル時連絡先名称",
+				"related": "関連スポット",
+				"creator": "スポット作成者",
+				"csv": "CSVファイル"
+			},
+			"check_box": {
+				"label": {
+					"express": "表示",
+					"representation": "非表示",
+					"men": "男性限定",
+					"women": "女性限定",
+					"50s": "男性50代以上",
+					"participants": "参加者全員",
+					"card": "クレカ",
+					"qr": "QR",
+					"bicycle_rental": "自転車レンタル",
+					"spring_available": "温泉あり",
+					"best_view": "景色最高",
+					"autumn": "秋におすすめ",
+					"beginners": "初心者におすすめ"
+				}
+			},
+			"btn": {
+				"selection": "選択",
+				"delete": "削除",
+				"register": "登録"
+			}
+		}
+	}
+}

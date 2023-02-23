@@ -1,0 +1,57 @@
+{
+	"title": {
+		"detail_notification": "お知らせ詳細",
+		"notifications": "お知らせ一覧",
+		"filter": "検索条件",
+		"title": "タイトル",
+		"type": "お知らせ種別",
+		"period": "掲載期間",
+		"detail": "お知らせ本文",
+		"state": "状態"
+	},
+	"column": {
+		"no": "NO",
+		"title": "タイトル",
+		"type": "お知らせ種別",
+		"from_date": "掲載開始日時",
+		"to_date": "掲載終了時",
+		"action": "スペシャルアクション",
+		"detail": "お知らせ詳細",
+		"created_at": "投稿日時",
+		"content": "内容",
+		"status":"ステータス"
+	},
+	"value": {
+		"express": "表示",
+		"non_representation": "非表示"
+	},
+	"btn": {
+		"search": "検索"
+	},
+	"edit": {
+		"form": {
+			"label": {
+				"id": "お知らせID",
+				"from_date": "投稿日時",
+				"published_date": "公開日時",
+				"period": "掲載期間",
+				"to": "～",
+				"status": "ステータス",
+				"content": "内容",
+				"creator": "周辺情報作成者"
+			},
+			"check_box": {
+				"label": {
+					"express": "表示",
+					"representation": "非表示",
+					"status": "表示·非表示"
+				}
+			},
+			"btn": {
+				"selection": "選択",
+				"delete": "削除",
+				"register": "登録"
+			}
+		}
+	}
+}
