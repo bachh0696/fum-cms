@@ -1,0 +1,1 @@
+System.register(["./index-legacy.ef50d871.js"],(function(e,t){"use strict";var r,n,c;return{setters:[e=>{r=e.c,n=e.K,c=e.M}],execute:function(){e("r",(e=>e?.length>30?r(n,{title:e,children:r("div",{children:c.exports.truncate(e)})}):e))}}}));
